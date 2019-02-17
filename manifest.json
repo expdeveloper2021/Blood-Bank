@@ -1,0 +1,35 @@
+{
+    "name": "news",
+    "short_name": "news",
+    "theme_color": "#f32141",
+    "background_color": "#f32127",
+    "display": "standalone",
+    "start_url": "./pages/index.html",
+    "icons": [
+        {
+            "src": "./icon/blood.jpg",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "./icon/blood.jpg",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "./icon/blood.jpg",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "./icon/blood.jpg",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./icon/blood.jpg",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

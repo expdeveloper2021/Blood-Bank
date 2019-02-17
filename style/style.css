@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+.navbar-inverse{
+    background-color: rgb(223, 34, 34);
+    border-color: rgb(223, 34, 34);
+}
+.navbar-inverse a {
+    font-weight: bold;
+    color: black !important;
+}
+.form , .form select , .form button{
+    color: red;
+}
+.form button:hover {
+    background-color: black;
+    color: red;
+} 
+#acty { 
+    margin-top: 20px;
+}
+.btn-default {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
